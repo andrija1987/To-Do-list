@@ -1,0 +1,13 @@
+.container .jumbotron {
+    border-radius: 6px;
+    background-color: #333;
+    }
+.todolist {
+	 color: white !important;
+	}
+.btn-primary {
+    background-color: #333;
+    }
+.radio label, .checkbox label {
+    font-size: 20px;
+ 	}
